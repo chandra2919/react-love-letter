@@ -1,6 +1,6 @@
 # Propose your GF/BF using React Love Letter
 
-Developed by [Dodagatta Nihar](https://instagram.com/niihaaarrrr)
+Developed by [chandra](https://instagram.com/niihaaarrrr)
 Website Link: https://github.com/chandra2919/react-love-letter.git
 
 ### How to use this?
